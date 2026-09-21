@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Fade } from "react-awesome-reveal";
-import { BiPaperclip } from "react-icons/bi";
+import { BiCube, BiPaperclip } from "react-icons/bi";
 import { BsAward, BsArrowUpRight, BsTrophy } from "react-icons/bs";
 import Container from "../components/sections/Container";
 import ScrollContainers from "../components/sections/ScrollContainers";
@@ -32,7 +32,7 @@ const myDetails: myDetailsProps[] = [
   { question: "Primary Role", answer: "Software & AI/ML Engineer" },
   { question: "Degree", answer: "B.Sc. Computer Science" },
   { question: "University", answer: "FUNAAB" },
-  { question: "Focus", answer: "Web, Mobile, Desktop & AI" },
+  { question: "Focus", answer: "Web, Mobile, AI & Web3" },
 ];
 
 const skills: skillsProps[] = [
@@ -45,6 +45,7 @@ const skills: skillsProps[] = [
   { name: "Node JS", icon: <NodeJs size={27} fill="#000" /> },
   { name: "PostgreSQL", icon: <PostgreSQL size={27} fill="#000" /> },
   { name: "MongoDB", icon: <MongoDB size={27} fill="#000" /> },
+  { name: "Web3 Integration", icon: <BiCube size={27} /> },
   { name: "Jest", icon: <Jest size={27} fill="#000" /> },
   { name: "Cypress", icon: <Cypress size={27} fill="#000" /> },
   { name: "HTML", icon: <HTML5 size={27} fill="#000" /> },
@@ -157,7 +158,10 @@ const About = () => {
                   requirements and emerging AI capabilities into reliable,
                   accessible experiences. My work spans frontend architecture,
                   API integration, cross-platform development, and production AI
-                  systems, with a strong focus on quality and user experience.
+                  systems, with a strong focus on quality and user experience. I
+                  also build Web3-enabled products, including wallet onboarding,
+                  agent payments, DeFi tooling, and blockchain integrations,
+                  while keeping software and AI/ML as my primary focus.
                 </p>
               </div>
             </Fade>

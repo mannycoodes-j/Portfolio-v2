@@ -30,7 +30,7 @@ export const projects: ProjectCategories[] = [
       {
         id: 993,
         name: "Vectra",
-        desc: "A Telegram-first autonomous research and payment agent that routes requests to premium services, applies spending policies, obtains approval, settles payments through Kite, and returns auditable receipts.",
+        desc: "A Telegram-first Web3 research and payment agent that routes requests to premium services, applies spending policies, obtains approval, settles payments through Kite, and returns auditable on-chain receipts.",
         image: "vectra.png",
         platform: "ai",
         role: "Full-stack Engineer",
