@@ -8,22 +8,22 @@ const pageMeta: Record<string, { title: string; description: string }> = {
   "/": {
     title: "Oladele Emmanuel | Software & AI/ML Engineer",
     description:
-      "Portfolio of Oladele Emmanuel, a software and AI/ML engineer building accessible web, mobile, desktop, and multilingual AI products.",
+      "Portfolio of Oladele Emmanuel, a software and AI/ML engineer building accessible web, mobile, desktop, multilingual AI, and Web3-enabled products.",
   },
   "/about": {
     title: "About Oladele Emmanuel | Software & AI/ML Engineer",
     description:
-      "Learn about Oladele Emmanuel's software engineering experience, AI/ML work, technical skills, hackathon wins, and technology education milestones.",
+      "Learn about Oladele Emmanuel's software engineering, AI/ML, mobile, and Web3 experience, technical skills, hackathon wins, and education milestones.",
   },
   "/portfolio": {
     title: "Projects | Oladele Emmanuel",
     description:
-      "Explore web, mobile, 3D, and AI products built by Oladele Emmanuel, including Verith, Vectra, GodConnect, and Hypa Intelligence.",
+      "Explore web, mobile, 3D, AI, and Web3-enabled products built by Oladele Emmanuel, including Verith, Vectra, GodConnect, and Hypa Intelligence.",
   },
   "/contact": {
     title: "Contact Oladele Emmanuel | Software Engineer",
     description:
-      "Contact Oladele Emmanuel for software engineering, frontend, mobile, AI/ML, product development, and technical collaboration opportunities.",
+      "Contact Oladele Emmanuel for software engineering, frontend, mobile, AI/ML, Web3 integration, product development, and technical collaboration.",
   },
 };
 
