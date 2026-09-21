@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#111111"/>
+  <text x="7" y="43" fill="#ffffff" font-family="Arial Black, Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="-5">OE</text>
+  <path d="M29 39h5v12c0 3-1.1 6-2.5 6S29 54 29 51V39Z" fill="#ffffff"/>
+  <path d="M49 38h4v8c0 2.5-.9 5-2 5s-2-2.5-2-5v-8Z" fill="#ffffff"/>
+</svg>

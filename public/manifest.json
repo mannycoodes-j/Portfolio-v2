@@ -1,0 +1,17 @@
+{
+  "short_name": "Mannycodes",
+  "name": "Oladele Emmanuel Portfolio",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "description": "Portfolio of Oladele Emmanuel, software and AI/ML engineer.",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
