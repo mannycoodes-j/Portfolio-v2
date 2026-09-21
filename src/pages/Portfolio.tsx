@@ -15,7 +15,7 @@ const Portfolio = () => {
       <>
         <Title
           text="My Projects."
-          subtitle="Below is a list of my selected projects"
+          subtitle="Selected web, mobile, AI, Web3, and interactive products."
           topOfPage={true}
         />
         <FilterButtons />

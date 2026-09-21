@@ -21,10 +21,11 @@ const Home = () => {
         </Fade>
         <Fade direction="up" delay={1700}>
           <p className="text-[1rem] max-w-[600px] leading-[1.2] mt-4">
-            I build thoughtful software powered by modern web and AI
-            technologies. 🙂 <br />
+            I build thoughtful software powered by modern web, AI, and
+            emerging Web3 technologies. 🙂 <br />
             I'm a software and AI/ML engineer focused on accessible,
-            responsive products across web, mobile, and desktop.
+            responsive products across web, mobile, and desktop—with Web3 as
+            a growing part of my work.
           </p>
         </Fade>
       </header>
